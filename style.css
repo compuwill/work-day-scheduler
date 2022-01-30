@@ -25,6 +25,8 @@ textarea{
 
 .description{
   white-space: pre-wrap;
+  width: 100%;
+  height: 100%;
 }
 
 .time-block{
@@ -70,4 +72,8 @@ textarea{
 .saveBtn:hover i {
   font-size: 20px;
   transition: all .1s ease-in-out;
+}
+
+.unsaved {
+  font-style: italic;
 }
