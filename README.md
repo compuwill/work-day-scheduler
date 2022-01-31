@@ -1,5 +1,5 @@
 # Work Day Scheduler
-A simple calendar application that saves events for each hour of the day.
+A simple calendar application that saves events for each hour of the day. Saves data to localstorage.
 This project uses bootstrap, moment.js, and fontawesome.
 
 # Screenshots
